@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/lcpdf">
+        <file alias="Icon_TitleBar_Default">image/Icon_TitleBar_Default.png</file>
+        <file alias="Icon_TitleBar_Press">image/Icon_TitleBar_Press.png</file>
+        <file alias="icon_info bar_arrow1">image/icon_info bar_arrow1.png</file>
+    </qresource>
+</RCC>
